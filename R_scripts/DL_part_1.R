@@ -7,7 +7,7 @@ knitr::opts_chunk$set(echo = TRUE, cache = TRUE)
 
 library(keras) #try noww
 ```
-#tensorflow changes
+#tensorflow changes; to check
 
 ```{r setup, eval = F}
 install_keras()
